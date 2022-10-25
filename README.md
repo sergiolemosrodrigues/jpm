@@ -5,4 +5,4 @@ Setup of enviroments to nameko in a local dev machine, applying instructions fro
 
 [https://github.com/gitricko/nameko-devex/blob/master/README-DevOps.md ](https://github.com/gitricko/nameko-devex/blob/master/README-DevOps.md)
 
-A video was created to illustrate the commands
+The videos were created to illustrate the commands
